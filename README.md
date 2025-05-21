@@ -37,3 +37,5 @@
 python main.py {user_code} - проверка тестов
 
 rm -rg tests/ answers/ - удалить все тесты и ответы
+
+pip install psutil
